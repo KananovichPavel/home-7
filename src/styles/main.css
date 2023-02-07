@@ -342,4 +342,25 @@ a:hover {
   border-radius: 10px;
   margin: 2rem 0rem;
   border: none;
+}
+
+.footer {
+  background-color: #262e2c;
+  height: 200px;
+}
+.footer-text {
+  background-color: #cf316e;
+  text-align: center;
+  font-size: 18px;
+  color: #ffffff;
+  margin: 0;
+  padding: 12px;
+}
+.footer-text2 {
+  background-color: #000000;
+  text-align: left;
+  font-size: 14px;
+  color: #ffffff;
+  margin: 0;
+  padding: 10px;
 }/*# sourceMappingURL=main.css.map */
