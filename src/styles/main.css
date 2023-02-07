@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 12px;
+}
+
+.container {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding-top: 10rem;
+}
+
+.title {
+  color: #cf316e;
+  font-size: 50px;
+  text-decoration: line-through;
+  text-align: center;
+  margin-top: 7rem;
+  margin-bottom: 10px;
+}/*# sourceMappingURL=main.css.map */
