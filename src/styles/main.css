@@ -96,4 +96,271 @@ body {
   height: 80px;
   padding-right: 2rem;
   padding-top: 1rem;
+}
+
+a {
+  text-decoration: none;
+  color: #cf316e;
+}
+
+.navbar-lists__list a {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+a:hover {
+  color: #cf316e;
+}
+
+.about {
+  text-align: center;
+}
+.about-text {
+  padding: 5rem;
+  text-align: center;
+  color: #cf316e;
+  border-radius: 10px;
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("https://www.w3.org/2020/maps/assets/media/header-map/map_960x540_with_code.jpg");
+  background-position: 50% 50%;
+  background-size: 100%;
+  font-size: 15px;
+}
+
+.delivery {
+  background-color: #e6e3e3;
+  border-radius: 10px;
+  max-width: 1150px;
+  margin: 0 auto;
+}
+.delivery-logo {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+.delivery-logo__icon {
+  display: inline;
+  width: 90px;
+  height: 90px;
+  background-color: #ffffff;
+  border-radius: 50%;
+}
+.delivery-text {
+  text-align: center;
+  color: #cf316e;
+  padding: 4rem;
+  font-size: 15px;
+}
+
+.ourProduct {
+  text-align: center;
+  display: inline-block;
+  list-style: none;
+}
+.ourProduct-products {
+  display: inline-block;
+  padding: 1.5rem 1.5rem;
+  list-style: none;
+}
+.ourProduct-products__product {
+  display: inline-block;
+  padding: 1.5rem 1.5rem;
+  list-style: none;
+}
+.ourProduct-products__product_productImage {
+  width: 230px;
+  border-radius: 10px;
+}
+
+.swiper {
+  width: 100%;
+  height: auto;
+}
+.swiper-slids {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.swiper-slids__slide {
+  position: relative;
+  width: 25%;
+  margin: 1rem;
+  padding: 3rem;
+  text-align: center;
+  background-color: #e6e3e3;
+  border-radius: 1rem;
+  color: #cf316e;
+}
+
+.contact {
+  text-decoration: none;
+  color: #ffffff;
+}
+.contact-data {
+  font-size: 30px;
+  margin-bottom: 50px;
+}
+.contact-form {
+  padding-bottom: 5rem;
+}
+.contact-form__card {
+  color: #ffffff;
+  width: 300px;
+  height: 500px;
+  background-color: #cf316e;
+  border-radius: 20px;
+  font-size: 18px;
+  border: none;
+  padding: 1rem 3rem;
+  margin-top: 5rem;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  text-align: center;
+}
+.contact-form__card_input {
+  color: #ffffff;
+  width: 300px;
+  height: 50px;
+  background-color: #913068;
+  border-radius: 10px;
+  margin: 2rem 0rem;
+  border: none;
+}
+
+.about {
+  text-align: center;
+}
+.about-text {
+  padding: 5rem;
+  text-align: center;
+  color: #cf316e;
+  border-radius: 10px;
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("https://www.w3.org/2020/maps/assets/media/header-map/map_960x540_with_code.jpg");
+  background-position: 50% 50%;
+  background-size: 100%;
+  font-size: 15px;
+}
+
+.delivery {
+  background-color: #e6e3e3;
+  border-radius: 10px;
+  max-width: 1150px;
+  margin: 0 auto;
+}
+.delivery-logo {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+.delivery-logo__icon {
+  display: inline;
+  width: 90px;
+  height: 90px;
+  background-color: #ffffff;
+  border-radius: 50%;
+}
+.delivery-text {
+  text-align: center;
+  color: #cf316e;
+  padding: 4rem;
+  font-size: 15px;
+}
+
+.ourProduct {
+  text-align: center;
+  display: inline-block;
+  list-style: none;
+}
+.ourProduct-products {
+  display: inline-block;
+  padding: 1.5rem 1.5rem;
+  list-style: none;
+}
+.ourProduct-products__product {
+  display: inline-block;
+  padding: 1.5rem 1.5rem;
+  list-style: none;
+}
+.ourProduct-products__product_productImage {
+  width: 230px;
+  border-radius: 10px;
+}
+
+.swiper {
+  width: 100%;
+  height: auto;
+}
+.swiper-slids {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.swiper-slids__slide {
+  position: relative;
+  width: 25%;
+  margin: 1rem;
+  padding: 3rem;
+  text-align: center;
+  background-color: #e6e3e3;
+  border-radius: 1rem;
+  color: #cf316e;
+}
+
+.contact {
+  text-decoration: none;
+  color: #ffffff;
+}
+.contact-data {
+  font-size: 30px;
+  margin-bottom: 50px;
+}
+.contact-form {
+  padding-bottom: 5rem;
+}
+.contact-form__card {
+  color: #ffffff;
+  width: 300px;
+  height: 500px;
+  background-color: #cf316e;
+  border-radius: 20px;
+  font-size: 18px;
+  border: none;
+  padding: 1rem 3rem;
+  margin-top: 5rem;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  text-align: center;
+}
+.contact-form__card_input {
+  color: #ffffff;
+  width: 300px;
+  height: 50px;
+  background-color: #913068;
+  border-radius: 10px;
+  margin: 2rem 0rem;
+  border: none;
+}
+
+.footer {
+  background-color: #262e2c;
+  height: 200px;
+}
+.footer-text {
+  background-color: #cf316e;
+  text-align: center;
+  font-size: 18px;
+  color: #ffffff;
+  margin: 0;
+  padding: 12px;
+}
+.footer-text2 {
+  background-color: #000000;
+  text-align: left;
+  font-size: 14px;
+  color: #ffffff;
+  margin: 0;
+  padding: 10px;
 }/*# sourceMappingURL=main.css.map */

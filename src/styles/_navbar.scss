@@ -31,3 +31,15 @@
         }
     }
 }
+a {
+    text-decoration: none;
+    color: $link-hover;
+
+}
+.navbar-lists__list a {
+    text-decoration: none;
+    color:$white;
+}
+a:hover {
+    color:$link-hover;
+}
